@@ -4,7 +4,7 @@
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋🏻 안녕하세요 </h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
+    <div style="font-weight: 700; font-size: 16px; text-align: left; color: #282d33;">
       무엇이든 끝까지 해내며 배우는 즐거움을 놓치지 않는 프론트엔드 개발자, 정유정입니다.<br/>
       다양한 환경에서 도전해보며, 팀과 함께 더 나은 경험을 만들어 가고 싶습니다.
     </div>
