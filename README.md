@@ -1,7 +1,3 @@
-<div align="right">
-    <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fpepper-sister?color=green&label=hits&size=medium" alt="hits" /></a>
-</div>
-
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋🏻 안녕하세요 </h2>
     <div style="font-weight: 700; font-size: 16px; text-align: left; color: #282d33;">
